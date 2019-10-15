@@ -1,95 +1,13 @@
 {
-	"2019-01-23": {
+	"2019-01-23": [{
 			"videomades" : 50,
 			"subscriptions" : 20
 		
-		  },
-		"2019-01-24": {
+		  }],
+		"2019-01-24": [{
 			"videomades" : 10,
 			"subscriptions" : 20
 		
-		  },
-	"2019-01-25": {
-			"videomades" : 50,
-			"subscriptions" : 70
-		
-		  },
-	"2019-01-26": {
-			"videomades" : 50,
-			"subscriptions" : 30
-		
-		  },
-	"2019-01-27": {
-			"videomades" : 40,
-			"subscriptions" : 80
-		
-		  },
-	"2019-02-28": {
-			"videomades" : 40,
-			"subscriptions" : 70
-		
-		  },
-	"2019-02-29": {
-			"videomades" : 50,
-			"subscriptions" : 20
-		
-		  },
-	"2019-02-30": {
-			"videomades" : 80,
-			"subscriptions" : 20
-		
-		  },	
-"2019-03-01": {
-			"videomades" : 80,
-			"subscriptions" : 50
-		
-		  },
-	"2019-03-02": {
-			"videomades" : 30,
-			"subscriptions" : 10
-		
-		  },
-	"2019-03-04": {
-			"videomades" : 50,
-			"subscriptions" : 20
-		
-		  },
-	"2019-03-06": {
-			"videomades" : 80,
-			"subscriptions" : 70
-		
-		  },
-	"2019-03-07": {
-			"videomades" : 60,
-			"subscriptions" : 50
-		
-		  },
-	"2019-03-08": {
-			"videomades" : 40,
-			"subscriptions" : 50
-		
-		  },
-	"2019-03-09": {
-			"videomades" : 80,
-			"subscriptions" : 50
-		
-		  },
-	"2019-03-10": {
-			"videomades" : 90,
-			"subscriptions" : 10
-		
-		  },
-	"2019-03-11": {
-			"videomades" : 60,
-			"subscriptions" : 50
-		
-		  },
-	"2019-03-12": {
-			"videomades" : 80,
-			"subscriptions" : 30
-		
-		  }
-
-
-
+		  }]
+	
 }
